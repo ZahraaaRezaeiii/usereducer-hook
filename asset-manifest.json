@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usereducer-hook/static/css/main.9a5c6096.css",
+    "main.js": "/usereducer-hook/static/js/main.6098d998.js",
+    "static/js/453.df88a588.chunk.js": "/usereducer-hook/static/js/453.df88a588.chunk.js",
+    "index.html": "/usereducer-hook/index.html",
+    "main.9a5c6096.css.map": "/usereducer-hook/static/css/main.9a5c6096.css.map",
+    "main.6098d998.js.map": "/usereducer-hook/static/js/main.6098d998.js.map",
+    "453.df88a588.chunk.js.map": "/usereducer-hook/static/js/453.df88a588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.6098d998.js"
+  ]
+}
